@@ -2,6 +2,7 @@
 
 #include <iostream>
 
+#include "ExtendedWorkTicket.h"
 
 
 int main()
