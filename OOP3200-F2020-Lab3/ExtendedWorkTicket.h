@@ -2,6 +2,7 @@
  * Authors: Ryan Clayson and Daniel Hinbest
  * Date: October 4, 2020
  * Description: A child class of the WorkTicket parent class that allows the opening and closing of tickets
+ * References: Lesson 4 In class work from OOP3200
  */
 #pragma once
 
