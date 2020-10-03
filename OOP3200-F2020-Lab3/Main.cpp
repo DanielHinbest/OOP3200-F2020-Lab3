@@ -1,4 +1,8 @@
-
+/* Program Name: OOP 3200 - Lab 3 - Inheritance
+ * Authors: Ryan Clayson and Daniel Hinbest
+ * Date: October 4, 2020
+ * Description: 
+ */
 
 #include <iostream>
 
